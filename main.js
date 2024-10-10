@@ -8,7 +8,7 @@ function hisobla() {
 }
 
   if (kilowatt <= 0) {
-    alert("Iltimos, noto'g'ri kilowattning qiymatini kiriting!");
+    alert("Noto'g'ri kilowattning qiymatini kiritdingiz!");
     return;
   } else {
     if (kilowatt <= 200) {
